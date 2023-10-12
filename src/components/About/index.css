@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.about-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.about-img {
+  width: 100px;
+  height: 100px;
+}
+
+.about-para {
+  text-decoration: none;
+}
+
+.light-background {
+  background-color: #ffffff;
+  color: #1e293b;
+}
+
+.dark-background {
+  background-color: #1e293b;
+  color: #ffffff;
+}
